@@ -12,6 +12,12 @@
     height: 100%;
   }  
 
+  .website {
+    color: #ffffff;
+    text-align: center;
+    margin-right: 0px;
+  }
+
   body {
     width: 100%;
     min-height: 100vh;
